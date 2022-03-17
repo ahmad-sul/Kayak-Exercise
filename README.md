@@ -53,6 +53,7 @@ jQuery, etc), but React is preferred as it is the library we use internally.
 ●Airline information is available via a jsonp API:
 
 URL: 'kayak.com/h/mobileapis/directory/airlines/homework'
+
 callback parameter name: 'jsonp'
 
 ●The alliance field in the JSON objects returned from the API should be used
@@ -66,22 +67,33 @@ Mockups
 
 ●Full size mockups with spacing & styling specs can be found on Google Drive
 here: Frontend Coding Exercise
+
 ●An SVG is provided for the logo.
+
 ●In the folder are 1 full size mock of the app at a normal desktop screen width and
 1 example mock of the app at a smaller screen width to demonstrate
 responsiveness.
+
 ●There are 2 spec images with annotations on top of the original mocks to provide
 information on spacing, color, font-size, etc.
+
 ●For all tiles, both by default and on hover, assume the logo & text are always
 vertically and horizontally centered within the tile. Also the dimensions of each
 tile should not change.
+
 Final Notes
+
 We do not imagine this should take you more than a few hours to build. Hopefully this
 will be a fun challenge for you.
+
 When you are ready to submit your app, please email us a link to your work on
 CodeSandbox.
+
 We request that you keep this exercise and your solution confidential (e.g. do not post
 publicly on GitHub or any other public forum).
+
 Let us know if you have any questions.
+
 Thank you again for your interest in KAYAK and we look forward to your reply!
+
 Good luck!
