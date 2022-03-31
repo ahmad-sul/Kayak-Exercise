@@ -1,0 +1,18 @@
+/* .cards{
+  max-width: 1500px;
+  margin-left: 94px;
+  margin-right: 94px;
+
+} */
+
+
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin:0 94px 0 94px
+   
+  }
+

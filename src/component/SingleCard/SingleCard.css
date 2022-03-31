@@ -1,0 +1,69 @@
+@import url("../../Font/stylesheet.css");
+
+.box {
+  width: 300px;
+  height: 240px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex: auto;
+  border-radius: 8px;
+  box-shadow: 0 -1px 4px 0 rgba(25, 32, 36, 0.04),
+    0 3px 6px 0 rgba(25, 32, 36, 0.16);
+   
+}
+
+.allianceLogo {
+  display: block;
+  width: 32px;
+  height: 32px;
+}
+
+.logo {
+  display: block;
+}
+.AirName {
+
+
+  font-weight: bold;
+  color: #192024;
+  vertical-align: middle;
+}
+
+.details {
+  margin-left: 18px;
+  display: block;
+  line-height: 0.8;
+  /* margin-top: 70px; */
+  height: 5px;
+}
+
+.info {
+  /* font: 15px ‘HelveticaNeue’, Arial, Helvetica, sans-serif; */
+  /* font-family: HelveticaNeue; */
+  display: block;
+  font-size: 14px;
+  font-weight: normal;
+  color: #192024;
+  opacity: 0;
+}
+
+.AirSite {
+  color: #5a6872;
+}
+.box:hover{
+  border: solid 1px #363f45;
+}
+
+.box:hover .info {
+  opacity: 1;
+}
+.box:hover .details {
+  height: 32px;
+}
+.box:hover .AirName {
+  font-size: 14px;
+}

@@ -1,0 +1,15 @@
+nav{
+    background-color: #FFFF;
+}
+
+.logoImg{
+margin: 19px 0px 19px 16px;
+}
+
+.header{
+    /* font-family: HelveticaNeue; */
+    font-size: 44px;
+    font-weight:900 ;
+    color: #000000;
+    margin: 67px 0px 73px 94px;
+}

@@ -1,11 +1,15 @@
-
-import React from 'react';
+import React from "react";
+import Home from "./component/Home/Home";
+import Container from "./context/Container";
+import './App.css'
 
 function App() {
   return (
-    <div className="App">
-      <h1>My React App</h1>
-    </div>
+    <Container>
+      <div className="App bg-light">
+        <Home />
+      </div>
+    </Container>
   );
 }
 
