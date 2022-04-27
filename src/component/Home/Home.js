@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../../../src/Logo.svg'
+import Logo from '../../../src/AH.jpg'
 import Cards from '../Cards/Cards'
 import './Home.css'
 
