@@ -1,4 +1,4 @@
-# Kayak-Exercise
+# Airlines-App
 
 KAYAK Frontend Software Engineer Coding Exercise
 
